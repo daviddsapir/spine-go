@@ -1,4 +1,4 @@
-module github.com/enbility/spine-go
+module github.com/heavyweight87/spine-go
 
 go 1.22.0
 
